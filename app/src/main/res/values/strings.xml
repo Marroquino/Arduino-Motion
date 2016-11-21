@@ -1,0 +1,31 @@
+<resources>
+        <string name="app_name">Arduino Motion</string>
+        <string name="Hey1">Hey There!</string>
+        <string name="AMA">This is the Arduino Motion app</string>
+        <string name="WID">This app will let you control the Arduino Motion module</string>
+        <string name="BLM">Learn More</string>
+        <string name="LMB">To know more about the app press the "Learn More" button below</string>
+        <string name="AB">To know more about who made this app press the "About" button below</string>
+        <string name="BA">About</string>
+        <string name="FB">To go to the features page press "Next Page"</string>
+        <string name="NP">Next Page</string>
+        <string name="Hey2">Hey there again!</string>
+        <string name="DMA2">Here you will see the features menu where you can choose the interactions with the Arduino Motion module</string>
+        <string name="BTB">Bluetooth</string>
+        <string name="NB">Notifications</string>
+        <string name="BT">If you press the Bluetooth button you will get a page where you can turn on you Bluetooth and connect to your Arduino module.</string>
+        <string name="NBA">If you press the Notifications button you will get a page where you can select if you want Notifications enabled and choose what type of notifications you want.</string>
+        <string name="BTP">This is the Bluetooth Page</string>
+        <string name="BTC">Connect</string>
+        <string name="AP">About Page</string>
+        <string name="title_activity_settings">Settings</string>
+        <string name="NtP">Notifications Page</string>
+        <string name="NTA">This is the page where you can configure if you do or do not want notifications and which type of notifications you want to receive.</string>
+        <string name="NTB">Notifications</string>
+        <string name="PB">Push Notifications</string>
+        <string name="ENB">E-mail Notifications</string>
+        <string name="BTA">Here you can connect to your Arduino Motion module and configure it</string>
+        <string name="title_activity_main2">Main2Activity</string>
+        <string name="title_activity_main4">Main4Activity</string>
+
+</resources>
