@@ -1784,7 +1784,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "outputFile": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
         "map": [
             {
                 "to": {
@@ -1796,7 +1796,7 @@
                     "endOffset": 351
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1816,7 +1816,7 @@
                     "endOffset": 442
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1835,7 +1835,7 @@
                     "endOffset": 545
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1854,7 +1854,7 @@
                     "endOffset": 648
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1873,7 +1873,7 @@
                     "endOffset": 753
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1892,7 +1892,7 @@
                     "endOffset": 860
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1911,7 +1911,7 @@
                     "endOffset": 969
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1930,7 +1930,7 @@
                     "endOffset": 1078
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1949,7 +1949,7 @@
                     "endOffset": 1187
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1968,7 +1968,7 @@
                     "endOffset": 1296
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1987,7 +1987,7 @@
                     "endOffset": 1405
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -2006,7 +2006,7 @@
                     "endOffset": 1512
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -2025,7 +2025,7 @@
                     "endOffset": 1615
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -2044,7 +2044,7 @@
                     "endOffset": 1734
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -2064,7 +2064,7 @@
                     "endOffset": 1889
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -2085,7 +2085,7 @@
                     "endOffset": 2044
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -2105,7 +2105,7 @@
                     "endOffset": 2149
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -2124,7 +2124,7 @@
                     "endOffset": 2270
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -2143,7 +2143,7 @@
                     "endOffset": 2371
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -2163,7 +2163,7 @@
                     "endOffset": 2518
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -2184,7 +2184,7 @@
                     "endOffset": 2659
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -2204,7 +2204,7 @@
                     "endOffset": 2762
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -2223,7 +2223,7 @@
                     "endOffset": 2881
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -2242,7 +2242,7 @@
                     "endOffset": 2988
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -2261,7 +2261,7 @@
                     "endOffset": 3091
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -2281,7 +2281,7 @@
                     "endOffset": 3246
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -2302,7 +2302,7 @@
                     "endOffset": 3417
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -2323,7 +2323,7 @@
                     "endOffset": 3566
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -2344,7 +2344,7 @@
                     "endOffset": 3731
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -2365,7 +2365,7 @@
                     "endOffset": 3888
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -2386,7 +2386,7 @@
                     "endOffset": 4039
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -2406,7 +2406,7 @@
                     "endOffset": 4158
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -2426,7 +2426,7 @@
                     "endOffset": 4530
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -2447,7 +2447,7 @@
                     "endOffset": 4679
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -2468,7 +2468,7 @@
                     "endOffset": 4828
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -2488,7 +2488,7 @@
                     "endOffset": 4940
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -2507,7 +2507,7 @@
                     "endOffset": 5087
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -2527,7 +2527,7 @@
                     "endOffset": 5240
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -2548,7 +2548,7 @@
                     "endOffset": 5387
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -2568,7 +2568,7 @@
                     "endOffset": 5462
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -2587,7 +2587,7 @@
                     "endOffset": 5551
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 4,
@@ -2606,7 +2606,7 @@
                     "endOffset": 5638
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -2625,7 +2625,7 @@
                     "endOffset": 5739
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -2644,7 +2644,7 @@
                     "endOffset": 5842
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -2664,7 +2664,7 @@
                     "endOffset": 8910
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -2685,7 +2685,7 @@
                     "endOffset": 9096
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 107,
                         "startColumn": 4,
@@ -2706,7 +2706,7 @@
                     "endOffset": 12176
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 110,
                         "startColumn": 4,
@@ -2727,7 +2727,7 @@
                     "endOffset": 12374
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 154,
                         "startColumn": 4,
@@ -2748,7 +2748,7 @@
                     "endOffset": 12574
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
@@ -2769,7 +2769,7 @@
                     "endOffset": 12697
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
@@ -2790,7 +2790,7 @@
                     "endOffset": 12820
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
@@ -2811,7 +2811,7 @@
                     "endOffset": 12933
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 164,
                         "startColumn": 4,
@@ -2832,7 +2832,7 @@
                     "endOffset": 13116
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
@@ -2853,7 +2853,7 @@
                     "endOffset": 13247
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
@@ -2874,7 +2874,7 @@
                     "endOffset": 13448
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
@@ -2894,7 +2894,7 @@
                     "endOffset": 13537
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 174,
                         "startColumn": 4,
@@ -2913,7 +2913,7 @@
                     "endOffset": 13648
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 175,
                         "startColumn": 4,
@@ -2933,7 +2933,7 @@
                     "endOffset": 13881
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
@@ -2953,7 +2953,7 @@
                     "endOffset": 13982
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -2972,7 +2972,7 @@
                     "endOffset": 14077
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 180,
                         "startColumn": 4,
@@ -2991,7 +2991,7 @@
                     "endOffset": 14200
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -3010,7 +3010,7 @@
                     "endOffset": 14329
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 182,
                         "startColumn": 4,
@@ -3029,7 +3029,7 @@
                     "endOffset": 14446
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -3049,7 +3049,7 @@
                     "endOffset": 14623
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 184,
                         "startColumn": 4,
@@ -3069,7 +3069,7 @@
                     "endOffset": 14722
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 187,
                         "startColumn": 4,
@@ -3089,7 +3089,7 @@
                     "endOffset": 14857
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 188,
                         "startColumn": 4,
@@ -3110,7 +3110,7 @@
                     "endOffset": 15000
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 190,
                         "startColumn": 4,
@@ -3131,7 +3131,7 @@
                     "endOffset": 15135
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -3152,7 +3152,7 @@
                     "endOffset": 15254
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -3173,7 +3173,7 @@
                     "endOffset": 15455
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -3194,7 +3194,7 @@
                     "endOffset": 15574
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -3214,7 +3214,7 @@
                     "endOffset": 15667
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -3233,7 +3233,7 @@
                     "endOffset": 15778
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 203,
                         "startColumn": 4,
@@ -3252,7 +3252,7 @@
                     "endOffset": 15834
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -3272,7 +3272,7 @@
                     "endOffset": 15941
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -3293,7 +3293,7 @@
                     "endOffset": 16136
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -3314,7 +3314,7 @@
                     "endOffset": 16247
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
@@ -3335,7 +3335,7 @@
                     "endOffset": 16380
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 213,
                         "startColumn": 4,
@@ -3355,7 +3355,7 @@
                     "endOffset": 16475
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 215,
                         "startColumn": 4,
@@ -3374,7 +3374,7 @@
                     "endOffset": 16566
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 216,
                         "startColumn": 4,
@@ -3393,7 +3393,7 @@
                     "endOffset": 16657
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 217,
                         "startColumn": 4,
@@ -3412,7 +3412,7 @@
                     "endOffset": 16774
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
@@ -3432,7 +3432,7 @@
                     "endOffset": 16913
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -3453,7 +3453,7 @@
                     "endOffset": 17426
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 221,
                         "startColumn": 4,
@@ -3474,7 +3474,7 @@
                     "endOffset": 17951
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 231,
                         "startColumn": 4,
@@ -3495,7 +3495,7 @@
                     "endOffset": 18631
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
@@ -3515,7 +3515,7 @@
                     "endOffset": 18688
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 251,
                         "startColumn": 4,
@@ -3534,7 +3534,7 @@
                     "endOffset": 18746
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
@@ -3554,7 +3554,7 @@
                     "endOffset": 18940
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\ArduinoMotion\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Android Studio\\ArduinoMotion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
